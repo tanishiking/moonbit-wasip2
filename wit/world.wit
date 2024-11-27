@@ -1,0 +1,6 @@
+package tanishiking:hello-moon-wasip2@0.0.1;
+
+world run {
+    import wasi:cli/stdout@0.2.2;
+    export wasi:cli/run@0.2.2;
+}

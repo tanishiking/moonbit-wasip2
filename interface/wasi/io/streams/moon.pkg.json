@@ -1,0 +1,1 @@
+{ "import": [{ "path" : "tanishiking/hello-moon-wasip2/ffi", "alias" : "ffi" }, { "path" : "tanishiking/hello-moon-wasip2/interface/wasi/io/error", "alias" : "error" }, { "path" : "tanishiking/hello-moon-wasip2/interface/wasi/io/poll", "alias" : "poll" }] }
